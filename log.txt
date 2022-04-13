@@ -1,0 +1,137 @@
+
+Written, lacks 5798
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/matches/4457440450
+Written, lacks 3801
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/matches/4456973095
+Written, lacks 3603
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/matches/4520959679
+Written, lacks 2946
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/matches/4448379921
+Written, lacks 2681
+503 Server Error: Service Unavailable for url: https://euw1.api.riotgames.com/lol/match/v4/matches/4527127761
+Written, lacks 1971
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/matches/4520523189
+Written, lacks 1808
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/matches/4464569523
+Written, lacks 1792
+503 Server Error: Service Unavailable for url: https://euw1.api.riotgames.com/lol/match/v4/matches/4499619236
+Written, lacks 833
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/matches/4521220052
+Written, lacks 437
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/matches/4523127328
+Written, lacks 56
+
+Written, lacks 0
+
+Written, lacks 9854
+
+Written, lacks 9871
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4423018162
+Written, lacks 9807
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4462377853
+Written, lacks 8832
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4519148589
+Written, lacks 9851
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4512918864
+Written, lacks 8749
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4519652445
+Written, lacks 9542
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4452162573
+Written, lacks 9869
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4524895124
+Written, lacks 9668
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4453038156
+Written, lacks 9868
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4500668824
+Written, lacks 9656
+
+Written, lacks 9684
+
+Written, lacks 9862
+
+Written, lacks 9787
+
+Written, lacks 9872
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4520510756
+Written, lacks 8742
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4521383938
+Written, lacks 8690
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4481135148
+Written, lacks 8560
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4514309643
+Written, lacks 7510
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4511951461
+Written, lacks 7298
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4498673478
+Written, lacks 7266
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4473969390
+Written, lacks 6505
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4513396657
+Written, lacks 6480
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4497565171
+Written, lacks 6372
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4480568476
+Written, lacks 6240
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4512610035
+Written, lacks 6100
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4462423061
+Written, lacks 5945
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4521738379
+Written, lacks 5374
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4507022630
+Written, lacks 5368
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4513953505
+Written, lacks 5305
+503 Server Error: Service Unavailable for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4518046236
+Written, lacks 5257
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4524400852
+Written, lacks 4839
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4466952270
+Written, lacks 4666
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4516924172
+Written, lacks 4661
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4466982463
+Written, lacks 4460
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4472652986
+Written, lacks 4457
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4523054835
+Written, lacks 4121
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4485783788
+Written, lacks 3594
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4410686846
+Written, lacks 3582
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4479605659
+Written, lacks 3203
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4438638752
+Written, lacks 3180
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4514076419
+Written, lacks 2146
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4517636739
+Written, lacks 1593
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4524047354
+Written, lacks 1509
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4501004124
+Written, lacks 1476
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4500284767
+Written, lacks 1455
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4513002559
+Written, lacks 1420
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4518540865
+Written, lacks 1398
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4510821185
+Written, lacks 904
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4511029912
+Written, lacks 629
+504 Server Error: Gateway Timeout for url: https://euw1.api.riotgames.com/lol/match/v4/timelines/by-match/4524141985
+Written, lacks 318
+
+Written, lacks 0
+
+
+
+
+
+
+
+
+
